@@ -27,3 +27,5 @@ dist-ssr
 .vercel
 extracted_profile.json
 posts.txt
+
+.vercel
